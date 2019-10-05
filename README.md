@@ -1,1 +1,1 @@
-Copyright 2018-2019 (c) Barbu Paul - Gheorghe
+Copyright 2016-2017 (c) Barbu Paul - Gheorghe
